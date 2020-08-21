@@ -2,18 +2,17 @@
 
 <!--	// ZMXuiWar3zukCP // Crafting Station Category Icon Display Conversion -->
 
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='']/@icon">smx_ui_crafting_cementmixer_icon</set>
-
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Ammo/Weapons']/@icon">smx_ui_crafting_weapons_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Building']/@icon">smx_ui_crafting_building_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='CFFood/Cooking']/@icon">smx_ui_crafting_food_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='CFDrink/Cooking']/@icon">smx_ui_crafting_drink_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='CFChemicals']/@icon">smx_ui_crafting_chemicals_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Clothing']/@icon">smx_ui_crafting_clothing_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Decor/Miscellaneous']/@icon">smx_ui_crafting_decor_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Food/Cooking']/@icon">smx_ui_crafting_cooking_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Resources']/@icon">smx_ui_crafting_resources_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Science']/@icon">smx_ui_crafting_science_icon</set>
-		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Tools/Traps']/@icon">smx_ui_crafting_tools_icon</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='']/@icon">ui_game_symbol_cement</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Ammo/Weapons']/@icon">ui_game_symbol_axe_sword</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Building']/@icon">ui_game_symbol_map_house</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='CFFood/Cooking']/@icon">ui_game_symbol_hunger</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='CFDrink/Cooking']/@icon">ui_game_symbol_thirst</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='CFChemicals']/@icon">ui_game_symbol_chemistry</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Clothing']/@icon">ui_game_symbol_shirt</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Decor/Miscellaneous']/@icon">ui_game_symbol_chair</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Food/Cooking']/@icon">smxlib_ui_game_symbol_master_chef</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Resources']/@icon">ui_game_symbol_resource</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Science']/@icon">ui_game_symbol_science</set>
+		<set xpath="/ui_display_info/crafting_category_display/crafting_category_list[contains (@display_type, 'HD')]/crafting_category[@name='Tools/Traps']/@icon">ui_game_symbol_tool</set>
 
 </configs>
